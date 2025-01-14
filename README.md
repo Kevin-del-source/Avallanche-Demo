@@ -1,1 +1,1 @@
-# Avallanche-Demo
+This contract has one million permits 
